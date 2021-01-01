@@ -1,6 +1,6 @@
 ## `PLExamples stand for Programming Langauage Examples`
 
-In this reposetory you can add your programs examples in particular language folders!
+In this reposetory you can add your programs examples in particular languages folder.
 
 For contributing here:
 1. Fork the repo from here to your profile,
